@@ -5,7 +5,7 @@ Un paradigma de programación es un enfoque para resolver problemas con programa
 
 ¿En qué se basa la programación orientada a objetos?
 
-Consiste en organizar el código en "objetos" que representan entidades con propiedades (atributos) y comportamientos (métodos), facilitando la reutilización y modularidad.
+Consiste en organizar el código en "objetos" que representan entidades con propiedades (atributos) y comportamientos (métodos), facilitando la reutilización y  la organización del código en partes manejables.
 
 ¿Cuál es la diferencia entre recursividad e iteración, y cómo se relaciona esto con la notación big 𝑂?
 
